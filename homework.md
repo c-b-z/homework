@@ -1,2 +1,2 @@
 
-![image](0601.png)
+![image](pic/0601.png)
